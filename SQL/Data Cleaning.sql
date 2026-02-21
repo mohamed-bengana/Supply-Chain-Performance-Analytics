@@ -34,4 +34,5 @@ WHERE actual_delivery_date < order_date;
 SELECT COUNT(*) as orphan_products
 FROM fact_supply_chain_orders f
 LEFT JOIN dim_products p ON f.product_id = p.product_id
+
 WHERE p.product_id IS NULL;
