@@ -1,4 +1,4 @@
-# 📦 Supply Chain Performance Analytics Dashboard
+# 📦 Supply Chain Performance Analytics 
 
 ## 🔎 Project Overview
 This project provides an interactive analytics solution for monitoring supplier performance, order fulfillment efficiency, and procurement lead times. The dashboard enables organizations to evaluate supply chain reliability, identify delivery delays, and optimize vendor management using data-driven insights.
