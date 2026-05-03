@@ -6,7 +6,7 @@ This project provides an interactive analytics solution for monitoring supplier 
 The solution integrates operational order data to measure service levels, delivery performance, and supplier effectiveness across plants and product categories.
 
 ---
-<img src="power bi dasboard/1.png" width="1200"/>
+<img src="power bi dashboard/1.png" width="1200"/>
 
 
 ## 🧰 Tools & Technologies
